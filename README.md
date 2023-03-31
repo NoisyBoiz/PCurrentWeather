@@ -16,7 +16,7 @@ git clone https://github.com/NoisyBoiz/PTravel.git
 ```
 - Go to the project directory
 ```
-cd PTravel
+cd PCurrentWeather
 ```
 - Install dependencies
 ```
